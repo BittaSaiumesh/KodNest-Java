@@ -8,5 +8,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="M02-introduction-to-java/Methods"/>
+	<classpathentry kind="src" path="M02-introduction-to-java/StringBuilders"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
