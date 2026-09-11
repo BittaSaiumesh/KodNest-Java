@@ -15,6 +15,7 @@ public class ReverseTheString {
             j--;
         }
         String str2 = new String(arr);
-        System.out.println(str2);
+        System.out.println("Reversed String: "+str2);
+        System.out.println("Original String: "+str);
     }
 }
